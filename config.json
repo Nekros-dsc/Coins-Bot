@@ -1,0 +1,26 @@
+{
+    "token": "",
+    "default_prefix": "&",
+    "owner": ["276705058370879489"],
+    "max_guild": 10,
+    
+    "webhookerror": {
+      "id": "Webhook-Id",
+      "token": "Webhook-Token"
+    },
+    "webhookratelimit": {
+      "id": "Webhook-Id",
+      "token": "Webhook-Token"
+  },
+
+  "coinsbot": {
+    "token": "Put-Token-Here",
+    "botId": "",
+    "prefix": "&",
+    "owner": "276705058370879489",
+    "max_guild": "30",
+    "DateStart": "'2024-04-10 15:41:17",
+    "Status": "/Uhq",
+    "activitytype": "STREAMING"
+  }
+}
