@@ -1,1 +1,0 @@
-require('./instance-coinsv3')
