@@ -138,7 +138,7 @@ function checklogs(bot, message, args, guildId, coins, type, color, title) {
         if(channel) {
             const embed = new Discord.EmbedBuilder()
             .setColor('Green')
-            .setDescription(`${message.member.user.username} vient de gagner \`${coins} coins\``)
+            .setDescription(`${message.member.user.username} vient de gagner \`${coins} coins\`.`)
             .setAuthor({ name: `${message.member.user.username}`, iconURL: message.member.user.displayAvatarURL({ dynamic: true }) })
             .setTimestamp()
             .setTitle('Work')

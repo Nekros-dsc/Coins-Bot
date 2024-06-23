@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 exports.help = {
   name: 'batiment',
-  aliases: ['bâtiment' , 'bat' , 'bar' , 'magasin' , 'garage' , 'gare' , 'cinema' , 'entrepot' , 'mairie' , 'batiments'],
+  aliases: ['bat' , 'bar' , 'magasin' , 'garage' , 'gare' , 'cinema' , 'entrepot' , 'mairie' , 'batiments'],
   description: 'Affiche votre entrepôt et l\'argent produit par vos bâtiments',
   use: 'Pas d\'utilisation conseillée',
   category: 'Achats'
