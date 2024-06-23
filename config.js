@@ -2,7 +2,7 @@ module.exports = {
   "token": "Put-Token-Here",
   "prefix": "!",
   "buyers": ["276705058370879489"],
-  "footerText": "♥ CoinsBot by ⲈpicBots",
+  "footerText": "Uhq World 🪄",
 
   /*/ API /*/
   "port": 3000,
