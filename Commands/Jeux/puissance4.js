@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-var rslow = require('../../Utils/function/roulette');
+var rslow = require('../../Utils/Functions/roulette');
 let gain = 2
 const createP4ActionRow = (pawns, currentPlayerPos, possibleActionsRow) => {
     let backgroundStyle = Discord.ButtonStyle.Primary;

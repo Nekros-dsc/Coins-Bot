@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-var items = require("../../Utils/function/shop.json");
+var items = require("../../Utils/Functions/shop.json");
 const { parseHuman, parseMS } = require("human-ms");
 
 exports.help = {

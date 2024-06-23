@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
-var items = require("../../Utils/function/shop.json");
-var rslow = require('../../Utils/function/roulette.js');
+var items = require("../../Utils/Functions/shop.json");
+var rslow = require('../../Utils/Functions/roulette.js');
 exports.help = {
   name: 'wagon',
   aliases: ['minerais'],

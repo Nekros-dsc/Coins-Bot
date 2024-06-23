@@ -10,7 +10,7 @@ const DatabaseHandler = require('./Handler/database')(bot);
 const anticrashHandler = require('./Handler/anticrash');
 anticrashHandler(bot);
 bot.db = DatabaseHandler;
-bot.functions = require('./Utils/function/functionCoins')
+bot.functions = require('./Utils/Functions/functionCoins')
 
 
 bot.login(require('./config.js').token).then(() => { console.log(`[!] — Logged in as ${bot.user.username} (${bot.user.id})`); }).catch(() => { console.log('\x1b[31m[!] — Please configure a valid bot token\x1b[0m'); });

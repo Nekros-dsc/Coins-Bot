@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const blackjack = require("whitehall");
-var rslow = require('../../Utils/function/roulette');
+var rslow = require('../../Utils/Functions/roulette');
 
 exports.help = {
   name: 'blackjack',

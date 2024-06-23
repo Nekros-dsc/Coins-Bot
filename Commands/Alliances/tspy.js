@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-var rslow = require('../../Utils/function/roulette.js')
+var rslow = require('../../Utils/Functions/roulette.js')
 
 const cooldownTime = 1 * 60 * 60;
 const cooldownsReputation = new Map();

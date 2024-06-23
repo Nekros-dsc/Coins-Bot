@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-var items = require("../../Utils/function/shop.json");
+var items = require("../../Utils/Functions/shop.json");
 
 exports.help = {
   name: 'shop',

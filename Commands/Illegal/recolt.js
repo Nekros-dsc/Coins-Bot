@@ -1,4 +1,4 @@
-var items = require('../../Utils/function/shop.json')
+var items = require('../../Utils/Functions/shop.json')
 const Discord = require("discord.js");
 
 const cooldownsReputation = new Map();

@@ -8,7 +8,7 @@ exports.help = {
   category: 'Achats'
 }
 exports.run = async (bot, message, args, config, data) => {
-    var items = require("../../Utils/function/shop.json")
+    var items = require("../../Utils/Functions/shop.json")
     let memberDB = bot.functions.checkUser(bot, message, args, message.author.id)
     let bats = JSON.parse(memberDB.batiment).batiments
     

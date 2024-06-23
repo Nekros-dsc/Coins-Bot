@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
-var { army } = require("../../Utils/function/shop.json")
-var rslow = require('../../Utils/function/roulette.js')
+var { army } = require("../../Utils/Functions/shop.json")
+var rslow = require('../../Utils/Functions/roulette.js')
 
 exports.help = {
   name: 'tarmy',
